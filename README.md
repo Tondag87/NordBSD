@@ -29,6 +29,13 @@ My First FreeBSD Rice
  Wallpaper can stay in NordBSD-Main just point Nitrogen to it 
  
  
+ # FireFox Setup (Stylus)
+ Search the Firefox Extensions for Stylus and Install
+ After that left click the extension and click on settings
+ Look on the left hand side and under backup select import
+ Then find nord.json and select it, you should have all the nord themes on websites like Gmail, Google, Youtube and Reddit
+ 
+ 
  
  
 
