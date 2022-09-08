@@ -33,7 +33,8 @@ My First FreeBSD Rice
     Search the Firefox Extensions for Stylus and Install 
      After that left click the extension and click on settings 
      Look on the left hand side and under backup select import 
-     Then find nord.json and select it, you should have all the nord themes on websites like Gmail, Google, Youtube and Reddit
+     Then find nord.json and select it, you should have all the nord themes  
+     Websites include Gmail, Google, Youtube and Reddit
  
  
  
