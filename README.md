@@ -14,8 +14,8 @@ My First FreeBSD Rice
    * rofi
    * alacritty
    * polybar
-   * picom
-        -- I recommend Fish but its not need --
+   * picom 
+ # -- I recommend Fish but its not need --
  
  # Git Clone this repository and copy files to where they need to go
     *** Possibly Might Have To Run As DOAS or SUDO ***
