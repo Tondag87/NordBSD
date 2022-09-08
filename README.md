@@ -30,9 +30,9 @@ My First FreeBSD Rice
  
  
  # FireFox Setup (Stylus)
- Search the Firefox Extensions for Stylus and Install \n
- After that left click the extension and click on settings \n
- Look on the left hand side and under backup select import \n
+ Search the Firefox Extensions for Stylus and Install 
+ After that left click the extension and click on settings 
+ Look on the left hand side and under backup select import 
  Then find nord.json and select it, you should have all the nord themes on websites like Gmail, Google, Youtube and Reddit
  
  
