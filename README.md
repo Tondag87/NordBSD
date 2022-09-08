@@ -14,17 +14,18 @@ My First FreeBSD Rice
    * rofi
    * alacritty
    * polybar
+   * picom
  
  # Git Clone this repository and copy files to where they need to go
     *** Possibly Might Have To Run As DOAS or SUDO ***
     cd "DOWNLOAD_LOCATION/NordBSD"
-    mv ~/.config/alacritty ~/.config/alacritty-backup && cp /alacritty ~/.config/alacritty
-    mv ~/.config/fish ~/.config/fish-backup && cp /fish ~/.config/fish
-    mv ~/.config/i3 ~/.config/i3-backup && cp /i3 ~/.config/i3
-    mv ~/.config/rofi ~/.config/rofi-backup && cp /rofi ~/.config/rofi && mkdir /.local/share/rofi/themes && cp ~/.config/rofi/themes/nord.rasi
-    mv ~/.config/polybar ~/.config/polybar-backup && cp /polybar ~/.config/polybar
-    mv ~/.config/neofetch ~/.config/neofetch-backup && cp /neofetch ~/.config/neofetch
-    mv ~/.config/picom ~/.config/picom-backup && cp /picom ~/.config/picom
+    mv ~/.config/alacritty ~/.config/alacritty-backup && cp -r alacritty/ ~/.config/alacritty
+    mv ~/.config/fish ~/.config/fish-backup && cp -r fish/ ~/.config/fish
+    mv ~/.config/i3 ~/.config/i3-backup && cp -r i3/ ~/.config/i3
+    mv ~/.config/rofi ~/.config/rofi-backup && cp -r rofi/ ~/.config/rofi && mkdir /.local/share/rofi/themes && cp -r ~/.config/rofi/themes/nord.rasi ~/.local/share/rofi/themes/nord.rasi
+    mv ~/.config/polybar ~/.config/polybar-backup && cp -r polybar/ ~/.config/polybar
+    mv ~/.config/neofetch ~/.config/neofetch-backup && cp -r neofetch/ ~/.config/neofetch
+    mv ~/.config/picom ~/.config/picom-backup && cp -r picom/ ~/.config/picom
  
  Wallpaper can stay in NordBSD-Main just point Nitrogen to it 
  
