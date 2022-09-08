@@ -22,7 +22,7 @@ My First FreeBSD Rice
     mv ~/.config/fish ~/.config/fish-backup && cp /fish ~/.config/fish
     mv ~/.config/i3 ~/.config/i3-backup && cp /i3 ~/.config/i3
     mv ~/.config/rofi ~/.config/rofi-backup && cp /rofi ~/.config/rofi && mkdir /.local/share/rofi/themes && cp ~/.config/rofi/themes/nord.rasi
-     mv ~/.config/polybar ~/.config/polybar-backup && cp /polybar ~/.config/polybar
+    mv ~/.config/polybar ~/.config/polybar-backup && cp /polybar ~/.config/polybar
     mv ~/.config/neofetch ~/.config/neofetch-backup && cp /neofetch ~/.config/neofetch
     mv ~/.config/picom ~/.config/picom-backup && cp /picom ~/.config/picom
  
